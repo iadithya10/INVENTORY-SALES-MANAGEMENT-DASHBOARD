@@ -10,4 +10,4 @@ It provides a clear separation of concerns with:
 
 ✔ Designed with modular architecture similar to real enterprise applications
 
-This project demonstrates skills in REST APIs, UI development, routing, services, and database interaction, suitable for interviews and practical work
+This project demonstrates skills in REST APIs, UI development, routing, services, and database interaction, suitable for interviews and practical work.
